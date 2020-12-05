@@ -1,0 +1,6 @@
+﻿.container {width: 1160px;margin: 50px auto 0}
+.article_content {margin-bottom: 30px;color: #454545;padding: 20px 30px 0 30px;line-height:40px;}
+.readall_box {position: relative;z-index: 9999;padding: 0 0 25px;margin-top: -200px;text-align: center;}
+.readall_box .read_more_mask {height: 200px;background: -moz-linear-gradient(bottom,rgba(255,255,255,0.1),rgba(255,255,255,0));background: -webkit-gradient(linear,0 top,0 bottom,from(rgba(255,255,255,0)),to(#fff));background: -o-linear-gradient(bottom,rgba(255,255,255,0.1),rgba(255,255,255,0))}
+.read_more_btn{cursor:pointer;font-size: 16px;color: #de686d;background: #fff;border-radius: 4px;border: 1px solid #de686d;line-height: 30px;padding:5px 10px;}
+.read_more_btn:hover{background:#de686d;color:#fff;}
